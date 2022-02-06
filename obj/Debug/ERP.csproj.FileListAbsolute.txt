@@ -1,0 +1,9 @@
+F:\C#\MTM Solution\ERP\ERP\bin\Debug\ERP.exe.config
+F:\C#\MTM Solution\ERP\ERP\bin\Debug\ERP.exe
+F:\C#\MTM Solution\ERP\ERP\bin\Debug\ERP.pdb
+F:\C#\MTM Solution\ERP\ERP\obj\Debug\ERP.csprojAssemblyReference.cache
+F:\C#\MTM Solution\ERP\ERP\obj\Debug\ERP.Form1.resources
+F:\C#\MTM Solution\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+F:\C#\MTM Solution\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+F:\C#\MTM Solution\ERP\ERP\obj\Debug\ERP.exe
+F:\C#\MTM Solution\ERP\ERP\obj\Debug\ERP.pdb
